@@ -5,4 +5,6 @@ Also, I’m open to your ideas and suggestions to help improve my projects – j
 ----------------------------------------------------------------------------------------------------------------------------
 NOTE:I made it up turkish only but next time i'll be publish it with other language preferences with more modern and stable.
 NOTE:The GUİ is made with claude not by me.
+NOTE:you need to download this if you have newer model GPU "pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128"
 
+<img width="1416" height="291" alt="image" src="https://github.com/user-attachments/assets/10764429-396a-4042-9b12-a9d81cda65ab" />
